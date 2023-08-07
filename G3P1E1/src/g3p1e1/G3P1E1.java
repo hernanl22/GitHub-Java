@@ -16,6 +16,9 @@ Ahora deberemos en el main crear una Persona y 4(cuatro) Perros. Después,
 vamos a hacer que persona adopte cada uno de esos Perros (luego al ejecutar 
 veremos que pasa), por último pediremos a la Persona que nos diga cual es el Perro más viejo.
  */
+
+//Miembros del proyecto: Hernan, Carlos
+
 package g3p1e1;
 
 import java.util.Scanner;
